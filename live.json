@@ -1,0 +1,33 @@
+{"Radios": [
+    {
+		"Name":"Champions League",
+		"URL":"https://qurango.net/radio/sahabah",		
+		"URLIMGA":"https://raw.githubusercontent.com/cabdellah/C-A/main/club/real.png",		
+		"URLIMGB":"https://raw.githubusercontent.com/cabdellah/C-A/main/club/liver.png"		
+	},
+	{
+		"Name":"europa league",
+		"URL":"https://qurango.net/radio/sahabah",		
+		"URLIMGA":"https://raw.githubusercontent.com/cabdellah/C-A/main/club/barca.png",		
+		"URLIMGB":"https://raw.githubusercontent.com/cabdellah/C-A/main/club/united.png"		
+	},
+	{
+		"Name":"Champions League",
+		"URL":"https://qurango.net/radio/sahabah",		
+		"URLIMGA":"https://raw.githubusercontent.com/cabdellah/C-A/main/club/napeli.png",		
+		"URLIMGB":"https://raw.githubusercontent.com/cabdellah/C-A/main/club/bvb.png"		
+	},
+	{
+		"Name":"Champions League",
+		"URL":"https://qurango.net/radio/sahabah",		
+		"URLIMGA":"https://raw.githubusercontent.com/cabdellah/C-A/main/club/bayern.png",		
+		"URLIMGB":"https://raw.githubusercontent.com/cabdellah/C-A/main/club/city.png"		
+	},
+	{
+		"Name":"Champions League",
+		"URL":"https://qurango.net/radio/sahabah",		
+		"URLIMGA":"https://raw.githubusercontent.com/cabdellah/C-A/main/club/inter.png",		
+		"URLIMGB":"https://raw.githubusercontent.com/cabdellah/C-A/main/club/chelsea.png"		
+	}
+]
+}
