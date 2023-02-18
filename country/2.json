@@ -8,8 +8,8 @@
     "englishName":"Al-Kawthar",
     "englishNameTranslation":"Abundance",
     "revelationType":"Meccan",
-    "numberOfAyahs":3,
-    "ayahs":[
+    "numberOfChannels":3,
+    "channels":[
     {
     "number":6205,
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/6205.mp3",

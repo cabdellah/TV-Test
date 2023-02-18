@@ -8,8 +8,8 @@
     "englishName":"Al-Falaq",
     "englishNameTranslation":"The Dawn",
     "revelationType":"Meccan",
-    "numberOfAyahs":5,
-    "ayahs":[
+    "numberOfChannels":5,
+    "channels":[
     {
     "number":6226,
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/6226.mp3",
